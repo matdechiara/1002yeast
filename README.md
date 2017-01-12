@@ -22,7 +22,7 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-**provabold** _provaitalia_ **_provabolditalic**_
+**provabold** _provaitalico_ **_provabolditalic**_
 [Link](url) and ![Image](src)
 ```
 
