@@ -1,5 +1,5 @@
-——
-## This pipeline extracts all the non-reference material from a large set of assemblies ##
+# First Pipeline: NON-REFERENCE MATERIAL
+### This pipeline extracts all the non-reference material from a large set of assemblies ##
 ——
 
 _Dependencies:_ 
@@ -103,8 +103,8 @@ The final file will be named "singlefasta.fa.ordered.fasta.kept.fasta".
 
 -------------------------------------
 
-——
-## This pipeline collapses ORFs that are more similar than a specific threshold
+# Second pipeline: COLLAPSING SIMILAR ORFS
+### This pipeline collapses ORFs that are more similar than a specific threshold
 ——
 
 _Dependencies:_ 
