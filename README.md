@@ -1,5 +1,5 @@
 ——
-## This pipeline extracts all the non-reference material from a large set of assemblies ###
+## This pipeline extracts all the non-reference material from a large set of assemblies ##
 ——
 
 _Dependencies:_ 
