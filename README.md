@@ -1,5 +1,5 @@
 ——
-# This pipeline extracts all the non-reference material from a large set of assemblies ###
+## This pipeline extracts all the non-reference material from a large set of assemblies ###
 ——
 
 _Dependencies:_ 
@@ -34,7 +34,6 @@ where "assembly_name.fa" is the assembly fasta file while "assembly_name.m8" wil
 
 The file "assembly_name.fa.kept.fasta" is one output of the "refine_disp.pl" script. The 0.2 indicates the frequency of “N”s allowed in a given sequence to not discard it.
 
-——
 
 Final file names will end in "afterN.fasta.kept.fasta".
 Each of these files will be the fasta files of the non reference sequences for each strain. 
