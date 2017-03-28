@@ -1,3 +1,10 @@
+### NB: 
+The graphical pipeline decribes the algorithm used to identify the S.cerevisiae pangenome for the 1002 yeast genome projectproject  ( http://1002genomes.u-strasbg.fr/ )
+
+Operations in panels A and B are performed by the scripts in the NON-REFERENCE MATERIAL scripts package. 
+
+Operations in panels D and E are performed by the scripts in the COLLAPSING SIMILAR ORFS scripts package.
+
 # First Pipeline: NON-REFERENCE MATERIAL
 ### This pipeline extracts all the non-reference material from a large set of assemblies ##
 ——
